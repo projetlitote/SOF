@@ -2,7 +2,7 @@ ManifestFileVersion: 1
 CompatibilityAssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: spatial-island_default_0
-      Hash: 6bf220325bb86ad4a480d0155ac91e9b
-      CRC: 3274974575
+      Name: severofflesh-01_default_0
+      Hash: 0d86d7b8972d0bf75eb1021ad7efd41d
+      CRC: 74667909
       Dependencies: {}
